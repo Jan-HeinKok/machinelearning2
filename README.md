@@ -6,7 +6,7 @@ This project aims to fine-tune a BERT model for sentiment analysis on car advert
 
 ## Data Collection and Preprocessing
 
-The dataset used for this project was sourced from car advertisements...
+The dataset used for this project was scraped from Quikr.com, sourced from car advertisements...
 
 ## Modeling
 
